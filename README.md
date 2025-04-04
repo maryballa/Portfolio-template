@@ -2,9 +2,9 @@
 
 This is a simple portfolio website template built using **HTML**, **CSS**, and **JavaScript**. The template includes the following pages:
 
-- **HOME** (`index.html`): The main page of the portfolio.
-- **PROJECTS** (`projects.html`): A page dedicated to showcasing projects.
-- **ABOUT ME** (`about.html`): A page containing personal information.
+- **HOME** : The main page of the portfolio.
+- **PROJECTS** : A page dedicated to showcasing projects.
+- **ABOUT ME** : A page containing personal information.
 
 ## File Structure
 
@@ -20,3 +20,4 @@ This is a simple portfolio website template built using **HTML**, **CSS**, and *
 - Toggle functionality for an interactive user experience.
 - Mobile-friendly layout.
 - Simple and clean design for showcasing a portfolio.
+
